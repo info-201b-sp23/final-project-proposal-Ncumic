@@ -118,4 +118,4 @@ Some challenges we might need to address when diving deeper into our project ide
 Acknowledgements
 > Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
 
-Our TA was always very helpful and eay to reach when we needed them :smile:
+Our TA was always very helpful and easy to reach when we needed them :smile:
