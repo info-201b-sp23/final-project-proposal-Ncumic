@@ -9,9 +9,10 @@ Give your project a concise, interesting title that summarizes the entirety of y
 TITLE: Earthquake Awareness
 ### Authors
 
+- Emails: xiangw9@uw.edu, xinying7@uw.edu, ncumic00@gmail.com
+
 Names of your team members and contact information (email addresses).
 ### Date
-
 Winter 2023
 ## Abstract
 
