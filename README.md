@@ -45,7 +45,8 @@ earthquakes by providing clear and concise information.
 3. What is the frequency of earthquakes happening in each country?
 4. What frequency of earthquakes causes tsunamis?
 
-2. Related Work  
+
+2 Related Work  
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
